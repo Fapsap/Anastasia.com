@@ -1,7 +1,4 @@
-root@764945-lierow:~# cat pkg.txt 
-Desired=Unknown/Install/Remove/Purge/Hold
-| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
-|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+
 ||/ Name                                   Version                                         Architecture Description
 +++-======================================-===============================================-============-===============================================================================
 ii  accountsservice                        0.6.45-1ubuntu1.3                               amd64        query and manipulate user account information
