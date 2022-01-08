@@ -1,0 +1,46 @@
+    1  ls
+    2  cd ./
+    3  cd /
+    4  ls
+    5  curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+    6  apt install curl
+    7  clear
+    8  ls
+    9  curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+   10  node -v
+   11  curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+   12  sudo apt-get install -y nodejs
+   13  node -v
+   14  npm -v
+   15  apt install git
+   16  ls
+   17  cd home
+   18  mkdir apps
+   19  cd apps
+   20  git clone https://github.com/Fapsap/Anastasia.com.git
+   21  ls
+   22  cd Anastasia.com/
+   23  ls
+   24  npm i
+   25  apt install nginx
+   26  node index.js
+   27  sudo nano /etc/nginx/sites-available/default
+   28  nginx -t
+   29  sudo nano /etc/nginx/sites-available/default
+   30  nginx -t
+   31  systemctl restart nginx
+   32  node index.js
+   33  sudo npm install pm2 -g
+   34  pm2 start index.js
+   35  pm2 --help
+   36  pm2 startup index.js
+   37  pm2 startup
+   38  cd /etc/systemd/system
+   39  ls
+   40  sudo nano /etc/nginx/sites-available/default
+   41  apt show
+   42  apt list
+   43  dpkg -l
+   44  dpkg -l > pkg.txt
+   45  cat pkg.txt
+   46  history > history
